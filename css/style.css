@@ -1,0 +1,28 @@
+body, html{
+  overflow-x: hidden;
+}
+
+.velar{
+  margin-top: 200px;
+  margin-left: 570px;
+  text-align: right;
+  text-shadow: 3px 5px 6px #6C9;
+  color: rgb(0, 0, 0);
+}
+
+.header{
+  margin-bottom: 200px;
+  margin-left: 600px;
+  text-align: right;
+  text-shadow: 3px 5px 6px #6C9;
+  color: rgb(0, 0, 0);
+}
+
+button{
+  position: relative;
+right: 450px;
+bottom: 220px;
+}
+/* .container-fluid{
+  padding: 7% 15%;
+} */
